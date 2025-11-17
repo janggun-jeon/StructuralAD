@@ -1,7 +1,7 @@
 # StructuralAD
  Structural Knowledge-Based Anomaly Detection to Inspect Ball-Based Lens Actuators
 
-![Image](https://github.com/user-attachments/assets/68c8eb96-e605-4d74-a1f4-00c91544fca6)
+![Image](https://github.com/user-attachments/assets/aac976a6-5e79-43c6-9be8-ab326f7f973a)
 
 [https://doi.org/10.1109/ACCESS.2025.3622686](https://doi.org/10.1109/ACCESS.2025.3622686)
 
