@@ -5,7 +5,7 @@
 
 [https://doi.org/10.1109/ACCESS.2025.3622686](https://doi.org/10.1109/ACCESS.2025.3622686)
 
-IEEE Access 2025, 13, 184110 <br>
+IEEE Access 2025, 13, 184110-184121 <br>
 ISSN:2169-3536      
 eISSN:2169-3536
 
@@ -86,7 +86,7 @@ If you use our code, please cite the paper below:
   author={Jeon, Janggun and Ahn, Junho and Kim, Namgi},
   journal={IEEE Access},
   volume={13},
-  pages={184110},
+  pages={184110-184121},
   year={2025},
   publisher={IEEE}
 }
