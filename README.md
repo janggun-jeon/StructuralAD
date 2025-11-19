@@ -86,6 +86,7 @@ If you use our code, please cite the paper below:
   author={Jeon, Janggun and Ahn, Junho and Kim, Namgi},
   journal={IEEE Access},
   volume={13},
+  number={},
   pages={184110-184121},
   year={2025},
   publisher={IEEE}
